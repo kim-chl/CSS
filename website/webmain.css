@@ -1,0 +1,68 @@
+.a1{
+    width: 2000px;
+    height: 1060px;
+    background-image: url(./main01.jpg);
+    background-size: cover;
+    text-align: left;
+    font-size: 30px;
+}
+
+.h1_txt{color:black; 
+    margin-bottom: 1px; 
+    margin-left: 50px; 
+    margin-top: 650px; 
+    font-family: 'Pretendard'; 
+    font-weight: 500;
+    line-height: 1.25;
+
+}
+
+.h2_txt{
+    color:black;
+    margin-left: 55px;
+    font-size: 20px;
+    margin-top: -17px;
+    margin-bottom: 80px;
+    font-family: 'pretendard';
+    font-weight: 200;
+    letter-spacing: 1em;
+}
+
+
+
+button{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border: none;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    font-size: 16px;
+    font-family: 'Pretendard';
+    font-weight: 400;
+    border-radius: 20px;
+    margin-left: 50px;
+    
+}
+
+button:hover{
+    background-color: white;
+    color:black;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.a2 {
+    width: 2000px;
+    height: 150px;
+    color: white;
+}
+
+.h3_txt {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Pretendard';
+    font-weight: 400;
+}
